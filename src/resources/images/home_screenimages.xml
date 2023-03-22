@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<images>
+  <title>HOME_SCREEN</title>
+  <image>
+    <id>mario</id>
+    <centerx>0.50</centerx>
+    <centery>0.16</centery>
+    <width>1.00</width>
+    <height>0.33</height>
+    <path>src/resources/images/homeImage/mario.jpg</path>
+  </image>
+  <image>
+    <id>doodle</id>
+    <centerx>0.50</centerx>
+    <centery>0.49</centery>
+    <width>1.00</width>
+    <height>0.33</height>
+    <path>src/resources/images/homeImage/doodle.jpg</path>
+  </image>
+  <image>
+    <id>flappy</id>
+    <centerx>0.50</centerx>
+    <centery>0.82</centery>
+    <width>1.00</width>
+    <height>0.33</height>
+    <path>src/resources/images/homeImage/flappy.jpg</path>
+  </image>
+</images>
