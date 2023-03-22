@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<buttons>
+  <title>TEXTURE_SWAP</title>
+  <button>
+    <id>BackCommand</id>
+    <centerx>0.10</centerx>
+    <centery>0.05</centery>
+    <width>0.15</width>
+    <height>0.05</height>
+    <method>back</method>
+  </button>
+</buttons>
